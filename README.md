@@ -13,5 +13,5 @@
 
 ## How to Use
 
-- Download the `Week1_Prompt_Engineering_Summary.docx` file for a comprehensive overview of Week 1 concepts.
+- Download the `GEMINI_PROMPTING.ipynb` file for a comprehensive overview of prompting concepts.
 - Use this guide to revise and apply the various prompting techniques in your projects or AI experiments.
