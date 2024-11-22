@@ -11,7 +11,7 @@
   - Tree of Thoughts (ToT)
   - ReAct (Reason & Act) Prompting
 
-## How to Use
+## How to Use 
 
 - Download the `GEMINI_PROMPTING.ipynb` file for a comprehensive overview of prompting concepts.
 - Use this guide to revise and apply the various prompting techniques in your projects or AI experiments.
